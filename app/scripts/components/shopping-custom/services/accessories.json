@@ -1,0 +1,59 @@
+{
+  "group1": [
+    {
+      "name": "Accessory One",
+      "price": 10
+    },
+    {
+      "name": "Accessory Two",
+      "price": 10
+    },
+    {
+      "name": "Accessory Three",
+      "price": 10
+    }
+  ],
+  "group2": [
+    {
+      "name": "Accessory One",
+      "price": 20
+    },
+    {
+      "name": "Accessory Two",
+      "price": 20
+    },
+    {
+      "name": "Accessory Three",
+      "price": 20
+    }
+
+  ],
+  "group3": [
+    {
+      "name": "Accessory One",
+      "price": 30
+    },
+    {
+      "name": "Accessory Two",
+      "price": 30
+    },
+    {
+      "name": "Accessory Three",
+      "price": 30
+    }
+  ],
+  "group4": [
+    {
+      "name": "Accessory One",
+      "price": 40
+    },
+    {
+      "name": "Accessory Two",
+      "price": 40
+    },
+    {
+      "name": "Accessory Three",
+      "price": 40
+    }
+  ]
+}
